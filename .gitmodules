@@ -1,0 +1,3 @@
+[submodule "lambda-node-runtime"]
+	path = lambda-node-runtime
+	url = git@github.com:MuntasirAlbashir/lambda-node-runtime.git
